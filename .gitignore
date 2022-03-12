@@ -11,13 +11,13 @@
 /[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
-./[Aa]ssets/**/*.meta
-./[Aa]ssets/00.Scenes/*
-./[Aa]ssets/02.Models/*
-./[Aa]ssets/03.Images/*
-./[Aa]ssets/04.Prefabs/*
-./[Aa]ssets/05.animations/*
-./[Aa]ssets/99.Assets/*
+/Assets/**/*.meta
+/Assets/00.Scenes/*
+/Assets/02.Models/*
+/Assets/03.Images/*
+/Assets/04.Prefabs/*
+/Assets/05.animations/*
+/Assets/99.Assets/*
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
