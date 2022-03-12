@@ -11,7 +11,13 @@
 /[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
-!/[Aa]ssets/**/*.meta
+./[Aa]ssets/**/*.meta
+./[Aa]ssets/00.Scenes/*
+./[Aa]ssets/02.Models/*
+./[Aa]ssets/03.Images/*
+./[Aa]ssets/04.Prefabs/*
+./[Aa]ssets/05.animations/*
+./[Aa]ssets/99.Assets/*
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
@@ -21,6 +27,7 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode/
 
 # Gradle cache directory
 .gradle/
