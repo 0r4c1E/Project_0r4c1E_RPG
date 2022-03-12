@@ -12,12 +12,12 @@
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 /Assets/**/*.meta
-/Assets/00.Scenes/*
-/Assets/02.Models/*
-/Assets/03.Images/*
-/Assets/04.Prefabs/*
-/Assets/05.animations/*
-/Assets/99.Assets/*
+/Assets/00.Scenes/
+/Assets/02.Models/
+/Assets/03.Images/
+/Assets/04.Prefabs/
+/Assets/05.animations/
+/Assets/99.Assets/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
