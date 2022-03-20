@@ -17,7 +17,10 @@
 /Assets/03.Images/
 /Assets/04.Prefabs/
 /Assets/05.animations/
+/Assets/06.Materials/
 /Assets/99.Assets/
+/Assets/Plugins/
+/Assets/Resources/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
